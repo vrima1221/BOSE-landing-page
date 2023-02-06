@@ -1,1 +1,1 @@
- - [DEMO LINK](https://vrima1221.github.io/<repo_name>/)
+ - [DEMO LINK](https://vrima1221.github.io/BOSE-landing-page/)
